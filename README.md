@@ -87,7 +87,7 @@
   </a>
   <p align="left" width="45%">
     <b>Wanderlust</b> — A travel accommodation platform built with HTML, CSS, Node.js, Express.js, PostgreSQL, and Cloudinary. Features map integration, property listings, and user authentication.
-  </p><br>
+  </p><br><br>
 
   <!-- AI Virtual Mouse Project -->
   <a align="right" href="https://github.com/RohanKonduskar/AI-Virtual-Mouse" title="AI Virtual Mouse">
@@ -95,23 +95,26 @@
   </a>
   <p align="right" width="45%">
     <b>AI Virtual Mouse</b> — A computer vision-based project that uses OpenCV and MediaPipe to control the mouse cursor through hand gestures in real-time.
-  </p>
+  </p><br><br>
 </div>
 
-
-
-
-<br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/RohanKonduskar/MERN-Ecommerce" title="MERN Ecommerce"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RohanKonduskar&repo=MERN-Ecommerce&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/RohanKonduskar/Java-DSA" title="Java + DSA"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RohanKonduskar&repo=Java-DSA&theme=react&border_color=61dafb&border_radius=10"></a>
+  <!-- Inventra Project -->
+  <a align="left" href="https://github.com/RohanKonduskar/Inventra" title="Inventra">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RohanKonduskar&repo=Inventra&theme=react&border_color=61dafb&border_radius=10&description=&v=1">
+  </a>
+  <p align="left" width="45%">
+    <b>Inventra</b> — A web-based inventory and sales management platform with real-time data updates, automated web scraping, and role-based modules for streamlined operations.
+  </p><br><br>
+
+  <!-- Cipher Project -->
+  <a align="right" href="https://github.com/RohanKonduskar/Cipher" title="Cipher">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RohanKonduskar&repo=Cipher&theme=react&border_color=61dafb&border_radius=10&description=&v=1">
+  </a>
+  <p align="right" width="45%">
+    <b>Cipher</b> — A secure password management system built in C using AES encryption, file handling, and backup features for safe and efficient password storage.
+  </p><br><br>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/RohanKonduskar/Node-Express-Projects" title="Node Express Projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RohanKonduskar&repo=Node-Express-Projects&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/RohanKonduskar/Python-Projects" title="Python Projects"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RohanKonduskar&repo=Python-Projects&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/RohanKonduskar?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
