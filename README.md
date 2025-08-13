@@ -96,7 +96,7 @@
   <p align="right" width="45%">
     <b>AI Virtual Mouse</b> — A computer vision-based project that uses OpenCV and MediaPipe to control the mouse cursor through hand gestures in real-time.
   </p><br><br>
-</div>
+</div><br>
 
 <div width="100%" align="center">
   <!-- Inventra Project -->
