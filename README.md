@@ -12,24 +12,21 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm <b>Rohan Ravindra Konduskar</b> — Computer Science Engineer & Full Stack Developer from India
+  <br><br>
+  🎓 I am pursuing my B.Tech in Computer Science Engineering at <b>D Y Patil College of Engineering and Technology, Kolhapur</b> (2021–2025) with a CGPA of 8.7
   <br>
+  📚 I have completed certifications in <b>Java + DSA</b> and the <b>MERN Stack</b>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  💻 I have strong technical skills in Java, Python, API Integration, React.js, HTML, CSS, JavaScript, Node.js, Express.js, Mongoose, and MySQL
   <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
+  🚀 Passionate about building high-quality, scalable, and user-friendly applications
   <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  💬 Ask me anything <a href="https://github.com/RohanKonduskar/RohanKonduskar/issues" title="Issues">here</a>
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  📫 How to reach me: <a href="mailto:rohankonduskar83@gmail.com">rohankonduskar83@gmail.com</a>
   <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  🔗 <a href="https://linkedin.com/in/rohan-konduskar-ab4632230" target="_blank">LinkedIn</a> | <a href="https://github.com/RohanKonduskar" target="_blank">GitHub</a>
 </p>
 
 <hr>
