@@ -50,8 +50,7 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="express" height="25" src="images/express.htm"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="express" height="25" src="images/expressJS.png"></code>
 </p>
 <hr>
 
