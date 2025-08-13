@@ -81,10 +81,9 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-
   <!-- Wanderlust Project -->
   <a align="left" href="https://github.com/RohanKonduskar/Wanderlust" title="Wanderlust">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RohanKonduskar&repo=Wanderlust&theme=react&border_color=61dafb&border_radius=10">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RohanKonduskar&repo=Wanderlust&theme=react&border_color=61dafb&border_radius=10" >
   </a>
   <p align="left" width="45%">
     <b>Wanderlust</b> — A travel accommodation platform built with HTML, CSS, Node.js, Express.js, PostgreSQL, and Cloudinary. Features map integration, property listings, and user authentication.
@@ -97,7 +96,6 @@
   <p align="right" width="45%">
     <b>AI Virtual Mouse</b> — A computer vision-based project that uses OpenCV and MediaPipe to control the mouse cursor through hand gestures in real-time.
   </p>
-
 </div>
 
 <br/><br/><br/><br/><br/><br/>
