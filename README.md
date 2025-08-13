@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/rohan-konduskar-ab4632230/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/rohankonduskar?igsh=NHF5Z3QydjFtajU3" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
