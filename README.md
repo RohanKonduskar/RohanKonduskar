@@ -83,7 +83,7 @@
 <div width="100%" align="center">
   <!-- Wanderlust Project -->
   <a align="left" href="https://github.com/RohanKonduskar/Wanderlust" title="Wanderlust">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RohanKonduskar&repo=Wanderlust&theme=react&border_color=61dafb&border_radius=10&description">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RohanKonduskar&repo=Wanderlust&theme=react&border_color=61dafb&border_radius=10&description=">
   </a>
   <p align="left" width="45%">
     <b>Wanderlust</b> — A travel accommodation platform built with HTML, CSS, Node.js, Express.js, PostgreSQL, and Cloudinary. Features map integration, property listings, and user authentication.
