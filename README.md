@@ -91,7 +91,7 @@
 
   <!-- AI Virtual Mouse Project -->
   <a align="right" href="https://github.com/RohanKonduskar/AI-Virtual-Mouse" title="AI Virtual Mouse">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RohanKonduskar&repo=AI-Virtual-Mouse&theme=react&border_color=61dafb&border_radius=10&description=&v=1">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RohanKonduskar&repo=AI-Virtual-Mouse&theme=react&border_color=61dafb&border_radius=10&description=&v=2">
   </a>
   <p align="right" width="45%">
     <b>AI Virtual Mouse</b> — A computer vision-based project that uses OpenCV and MediaPipe to control the mouse cursor through hand gestures in real-time.
