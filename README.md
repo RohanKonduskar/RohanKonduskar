@@ -115,7 +115,7 @@
   </a>
   <p align="right" width="45%">
     <b>Cipher</b> — A secure password management system built in C using AES encryption, file handling, and backup features for safe and efficient password storage.
-  </p><br>
+  </p><br><br><br>
 
   <!-- CurrencyConvertor Project -->
 <a align="left" href="https://github.com/RohanKonduskar/CurrencyConvertor" title="CurrencyConvertor">
