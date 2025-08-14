@@ -4,12 +4,20 @@
   </a>
 </h1> -->
 
-<div align="center" style="background-image: url('https://raw.githubusercontent.com/RohanKonduskar/images/Full_Stack.jpg'); background-size:cover; background-position: center; padding: 20px; border-radius: 10px;">
+<!-- <div align="center" style="background-image: url('https://raw.githubusercontent.com/RohanKonduskar/RohanKonduskar/main/images/Full_Stack.jpg'); background-size:cover; background-position: center; padding: 20px; border-radius: 10px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ROHAN+KONDUSKAR.;Nice+to+meet+you!&center=true&size=30">
   </a>
-</div>
+</div> -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RohanKonduskar/RohanKonduskar/main/images/Full_Stack.jpg" height="300px" width="120%" alt="Background">
+</p>
+<p align="center" style="margin-top: -60px;">
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ROHAN+KONDUSKAR.;Nice+to+meet+you!&center=true&size=30&font=Poppins">
+</a>
+</p>
 
 <hr>
 <h5 align="center">
