@@ -1,10 +1,17 @@
- <h1 align="center">
+ <!-- <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ROHAN+KONDUSKAR.;Nice+to+meet+you!&center=true&size=30">
   </a>
-</h1> 
+</h1> -->
+
+<div align="center" style="background-image: url('https://raw.githubusercontent.com/RohanKonduskar/images/Full_Stack.jpg'); background-size:cover; background-position: center; padding: 20px; border-radius: 10px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ROHAN+KONDUSKAR.;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</div>
 
 
+<hr>
 <h5 align="center">
   <img src="images/developer.gif" alt="developer" height="300" width="300"><br><br>
   <code><a href="https://www.linkedin.com/in/rohan-konduskar-ab4632230/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
