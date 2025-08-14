@@ -96,7 +96,7 @@
   <a align="right" href="https://github.com/RohanKonduskar/Wanderlust" title="Wanderlust">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RohanKonduskar&repo=Wanderlust&theme=react&border_color=61dafb&border_radius=10&description=&v=1">
   </a>
-  <p align="right" width="45%">
+  <p align="left" width="45%">
     <b>Wanderlust</b> — A travel accommodation platform built with HTML, CSS, Node.js, Express.js, PostgreSQL, and Cloudinary. Features map integration, property listings, and user authentication.
   </p><br><br><br>
 
@@ -116,7 +116,7 @@
   <a align="right" href="https://github.com/RohanKonduskar/Cipher" title="Cipher">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RohanKonduskar&repo=Cipher&theme=react&border_color=61dafb&border_radius=10&description=&v=1">
   </a>
-  <p align="right" width="45%">
+  <p align="left" width="45%">
     <b>Cipher</b> — A secure password management system built in C using AES encryption, file handling, and backup features for safe and efficient password storage.
   </p><br><br><br>
 
