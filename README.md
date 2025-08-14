@@ -1,15 +1,3 @@
- <!-- <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ROHAN+KONDUSKAR.;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1> -->
-
-<!-- <div align="center" style="background-image: url('https://raw.githubusercontent.com/RohanKonduskar/RohanKonduskar/main/images/Full_Stack.jpg'); background-size:cover; background-position: center; padding: 20px; border-radius: 10px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ROHAN+KONDUSKAR.;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</div> -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/RohanKonduskar/RohanKonduskar/main/images/Full_Stack.jpg" height="300px" width="120%" alt="Background">
 </p>
@@ -141,7 +129,7 @@
   <b>CurrencyConvertor</b> — Converting Indian currency (INR) to multiple countries’ currencies with their flags, using a Java GUI (Swing/AWT).
 </p><br><br>
 
-</div>
+</div><br>
 
 <h4 align="center">
   <a href="https://github.com/RohanKonduskar?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
