@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ROHAN+KONDUSKAR.;Nice+to+meet+you!&center=true&size=30&font=Poppins">
 </a>
 </p>
-
 <hr>
 <h5 align="center">
   <img src="images/developer.gif" alt="developer" height="300" width="300"><br><br>
@@ -91,7 +90,7 @@
   </a>
   <p align="left" width="45%">
     <b>Inventra</b> — A web-based inventory and sales management platform with real-time data updates, automated web scraping, and role-based modules for streamlined operations.
-  </p><br><br>
+  </p><br><br><br>
   
   <!-- Wanderlust Project -->
   <a align="right" href="https://github.com/RohanKonduskar/Wanderlust" title="Wanderlust">
@@ -99,7 +98,7 @@
   </a>
   <p align="right" width="45%">
     <b>Wanderlust</b> — A travel accommodation platform built with HTML, CSS, Node.js, Express.js, PostgreSQL, and Cloudinary. Features map integration, property listings, and user authentication.
-  </p><br><br>
+  </p><br><br><br>
 
 
 <div width="100%" align="center">
