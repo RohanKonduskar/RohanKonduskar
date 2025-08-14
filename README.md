@@ -1,27 +1,14 @@
-<!-- <h1 align="center">
+ <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ROHAN+KONDUSKAR.;Nice+to+meet+you!&center=true&size=30">
   </a>
-</h1> -->
-
-<div style="display: flex; align-items: center; justify-content: center;">
-  <!-- Center Typing Text -->
-  <h1 align="center" style="flex: 1; margin: 0;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ROHAN+KONDUSKAR.;Nice+to+meet+you!&center=true&size=30">
-    </a>
-  </h1>
-
-  <!-- Right Side GFG with Background -->
-  <div style="background-color: #f5f5f5; padding: 10px; border-radius: 10px; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="80">
-    <span style="font-size: 16px; font-weight: bold; color: #2f8d46;">Web Developer</span>
-  </div>
-</div>
+</h1> 
 
 
 <h5 align="center">
+  <img src="images/developer.gif" alt="developer" height="300" width="300"><br><br>
   <code><a href="https://www.linkedin.com/in/rohan-konduskar-ab4632230/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  &nbsp;&nbsp;&nbsp;
   <code><a href="https://www.instagram.com/rohankonduskar?igsh=NHF5Z3QydjFtajU3" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
