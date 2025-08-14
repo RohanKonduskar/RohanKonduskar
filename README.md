@@ -119,7 +119,7 @@
 
   <!-- CurrencyConvertor Project -->
 <a align="left" href="https://github.com/RohanKonduskar/CurrencyConvertor" title="CurrencyConvertor">
-  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RohanKonduskar&repo=CurrencyConvertor&theme=react&border_color=61dafb&border_radius=10&description=&v=3">
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RohanKonduskar&repo=CurrencyConvertor&theme=react&border_color=61dafb&border_radius=10&description=&v=1">
 </a>
 <p align="left" width="45%">
   <b>CurrencyConvertor</b> — Converting Indian currency (INR) to multiple countries’ currencies with their flags, using a Java GUI (Swing/AWT).
