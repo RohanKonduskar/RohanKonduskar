@@ -115,7 +115,16 @@
   </a>
   <p align="right" width="45%">
     <b>Cipher</b> — A secure password management system built in C using AES encryption, file handling, and backup features for safe and efficient password storage.
-  </p><br><br>
+  </p><br>
+
+  <!-- CurrencyConvertor Project -->
+<a align="left" href="https://github.com/RohanKonduskar/CurrencyConvertor" title="CurrencyConvertor">
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RohanKonduskar&repo=CurrencyConvertor&theme=react&border_color=61dafb&border_radius=10&description=&v=3">
+</a>
+<p align="left" width="45%">
+  <b>CurrencyConvertor</b> — Converting Indian currency (INR) to multiple countries’ currencies with their flags, using a Java GUI (Swing/AWT).
+</p><br><br>
+
 </div>
 
 <h4 align="center">
