@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RohanKonduskar/RohanKonduskar/main/images/Full_Stack.jpg" height="300px" width="120%" alt="Background">
+  <img src="https://raw.githubusercontent.com/RohanKonduskar/RohanKonduskar/main/images/Full-Stack.jpg"  width="100%" alt="Background">
 </p>
 <p align="center" style="margin-top: -60px;">
  <a href="https://git.io/typing-svg">
