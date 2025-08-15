@@ -1,11 +1,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/RohanKonduskar/RohanKonduskar/main/images/Full-Stack.jpg"  width="100%" alt="Background">
 </p>
-<p align="center" style="margin-top: -60px;">
- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ROHAN+KONDUSKAR.;Nice+to+meet+you!&center=true&size=30&font=Poppins">
-</a>
-</p>
+
+  <p align="center" style="margin-top: -60px;">
+    <a href="https://git.io/typing-svg">
+     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ROHAN+KONDUSKAR.;Nice+to+meet+you!&center=true&size=30&font=Bebas+Neue">
+    </a>
+  </p>
+
 <hr>
 <h5 align="center">
   <img src="images/developer.gif" alt="developer" height="300" width="300"><br><br>
